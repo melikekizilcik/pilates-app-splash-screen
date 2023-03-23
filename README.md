@@ -1,4 +1,3 @@
-# Pilates App UI Design
-1-Splash screen oluşturuldu:
-  https://www.npmjs.com/package/react-native-splash-screen paketi kullanıldı
+# React Native'de Splash Screen oluşturma
+  - https://www.npmjs.com/package/react-native-splash-screen paketi kullanıldı
 
